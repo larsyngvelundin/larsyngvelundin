@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larsyngvelundin
 - 👀 I’m interested in automation and NLP.
-- 🌱 I’m currently learning the ins and outs of Python and experimenting with NLP and TensorFlow.
+- 🌱 Learning the ins and outs of Python and experimenting with NLP and TensorFlow.
 - 💞️ Currently studying to be a Blockchain Developer at Medieinstitutet.
 - 📫 How to reach me lars.y.lundin@gmail.com
