@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @larsyngvelundin
 - 👀 I’m interested in automation and data processing/analysis.
 - 🌱 Learning the ins and outs of Python in my free-time.
-- 📫 How to reach me lars.y.lundin@gmail.com
+- 📫 How to reach me hello@larslund.in
